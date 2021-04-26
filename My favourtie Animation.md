@@ -25,5 +25,6 @@ It is actually a is an epic high fantasy Comics created by chinese painter Wu Mi
 ![Tales of Tarsylia](https://imgsa.baidu.com/forum/pic/item/a5452ff33a87e9500ead3a7410385343fbf2b431.jpg)
 ----------------------------
 2. __The Legend of LuoXiaohei__  
-The Legend of Luo Xiaohei (罗小黑战记) is a flash animation and webtoon developed by Chinese artist MTJJ (real name Zhang Ping 章平).The story begins on a rainy night when Luo Xiao Hei, a cat demon, is injured badly after stealing Laojun's pearl artifact. As a result, he is transformed from his humanoid form to become a black kitten. He is then saved by a young girl named Luo Xiaobai, who brings him home. Luo Xiaobai and Luo Xiao Hei become very close friends and their adventure starts in a world where people, goblins, and gods coexist.  
+The Legend of Luo Xiaohei (罗小黑战记) is a flash animation and webtoon developed by Chinese artist MTJJ (real name Zhang Ping 章平).  
+The story begins on a rainy night when Luo Xiao Hei, a cat demon, is injured badly after stealing Laojun's pearl artifact. As a result, he is transformed from his humanoid form to become a black kitten. He is then saved by a young girl named Luo Xiaobai, who brings him home. Luo Xiaobai and Luo Xiao Hei become very close friends and their adventure starts in a world where people, goblins, and gods coexist.  
 ![Luoxiaohei](http://pic1.win4000.com/wallpaper/2019-09-17/5d80a1a838408.jpg)
