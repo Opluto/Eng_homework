@@ -16,3 +16,8 @@ _[BiliBili](https::/www.bilibili.com)_,a website where animation lover gathered 
 
 ## Right click,and you could get the URL of this image 
 ![cowboy bebop](http://wallpaperswide.com/download/rick_and_morty-wallpaper-1920x1200.jpg)
+```javascript
+$(document).ready(function () {
+    alert('Animation is great!');
+});
+```
