@@ -2,7 +2,7 @@
 |  American cartoon  | Japanese anime  |  Chinese anime
 |  ----  | ----  |----  |
 | Rick and morty  | Cowboy bebop   |  Tales of Tarsylia |
-| BoJack Horseman  | Flcl |  The Legend of LuoXiaohei |  
+| BoJack Horseman  | Flcl~~(special girl)~~ |  The Legend of LuoXiaohei |  
 #### American cartoon
 1. __Rick and morty__  
 Rick and Morty is an American adult animated science fiction sitcom.The series has been acclaimed by critics for its originality, creativity and humor.  
