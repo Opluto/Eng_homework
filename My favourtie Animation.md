@@ -22,7 +22,7 @@ FLCL (Japanese: フリクリ) is an original video animation ~~(OVA)~~ anime ser
 #### Chinese anime
 1. Tales of Tarsylia
 It is actually a is an epic high fantasy Comics created by chinese painter Wu Miao.Although it is straitly known by people,I still believe it is one of the greatest comic in China.Tales of Tarsylia takes place in a fictional world,but Wu Miao set out to make the story feel more like historical fiction than contemporary fantasy, with less emphasis on magic and sorcery itself ,and more on those story happened around the characters and their growth.
-![Tales of Tarsylia](https://img49.51tietu.net/pic/2017-040200/20170402005126jkm3kh52adf208343.jpg)
+![Tales of Tarsylia](https://imgsa.baidu.com/forum/pic/item/a5452ff33a87e9500ead3a7410385343fbf2b431.jpg)
 ----------------------------
 2. The Legend of LuoXiaohei
 The Legend of Luo Xiaohei (罗小黑战记) is a flash animation and webtoon developed by Chinese artist MTJJ (real name Zhang Ping 章平).The story begins on a rainy night when Luo Xiao Hei, a cat demon, is injured badly after stealing Laojun's pearl artifact. As a result, he is transformed from his humanoid form to become a black kitten. He is then saved by a young girl named Luo Xiaobai, who brings him home. Luo Xiaobai and Luo Xiao Hei become very close friends and their adventure starts in a world where people, goblins, and gods coexist.
