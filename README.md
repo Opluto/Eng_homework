@@ -17,8 +17,6 @@ It is my pleasure to introduce the developement of animation in world to you.
 
 ![BiliBili](picture/789.png)
 
-## Right click,and you could get the URL of this image 
-![cowboy bebop](http://wallpaperswide.com/download/rick_and_morty-wallpaper-1920x1200.jpg)
 ```javascript
 $(document).ready(function () {
     alert('Animation is great!');
