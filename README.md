@@ -12,4 +12,4 @@ _![Tokoyo Tv station](picture/456.png)_
 ## Animation in Chian
 Chinese animation grows very fast in recent years,but it still has a long way to go.
 _[BiliBili](https::/www.bilibili.com)_,a website where animation lover gathered in network,is now very popular between young people in China.
-[BiliBili](picture/789.png)
+![BiliBili](picture/789.png)
